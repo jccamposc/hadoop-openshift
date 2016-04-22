@@ -100,7 +100,7 @@
                 "name": "hadoop-openshift"
             },
             "spec": {
-                "dockerImageRepository": "norsknettarkiv/hadoop-openshift",
+                "dockerImageRepository": "sequenceiq/hadoop-docker",
                 "tags": [
                     {
                         "name": "0.1.0-BETA"
